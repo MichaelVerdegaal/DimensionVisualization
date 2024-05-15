@@ -1,7 +1,14 @@
-# QuickTemplate
+# DimensionVisualization
 
-A python template to quickly start a new project. Comes with jupyter notebooks and a 
-pre-commit config pre-provided.
+This project is for the purpose in practicing the use of dimensionality reduction methods 
+to visualize datasets.
+
+Techniques that i wanted to look at are:
+
+- PCA (Principal Component Analysis)
+- TSNE (T-distributed Stochastic Neighbor Embedding)
+- UMAP (Uniform Manifold Approximation and Projection)
+- PyMDE (Python Minimum-Distortion Embedding)
 
 ## Installation
 
